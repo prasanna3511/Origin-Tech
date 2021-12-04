@@ -1,0 +1,39 @@
+.foot{
+    padding-top: 50px;
+    background-color:rgba(7, 56, 16, 0.5);
+    ;
+}
+
+.smedia{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.fot1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+      
+      
+   
+}
+.ft1{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-decoration: none;
+}
+
+.instagram{
+    height: 30px;
+    width: 30px;
+    padding: 30px;
+}
+
+.linkedin{
+    height: 30px;
+    width: 30px;
+    padding: 30px;
+}

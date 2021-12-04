@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.696af830.chunk.css",
+    "main.js": "/static/js/main.dfc46681.chunk.js",
+    "main.js.map": "/static/js/main.dfc46681.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f60321d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f60321d.js.map",
+    "static/js/2.011ea9f8.chunk.js": "/static/js/2.011ea9f8.chunk.js",
+    "static/js/2.011ea9f8.chunk.js.map": "/static/js/2.011ea9f8.chunk.js.map",
+    "static/js/3.6ee43d5b.chunk.js": "/static/js/3.6ee43d5b.chunk.js",
+    "static/js/3.6ee43d5b.chunk.js.map": "/static/js/3.6ee43d5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.696af830.chunk.css.map": "/static/css/main.696af830.chunk.css.map",
+    "static/js/2.011ea9f8.chunk.js.LICENSE.txt": "/static/js/2.011ea9f8.chunk.js.LICENSE.txt",
+    "static/media/Harshalpatil.ca010fb4.jpg": "/static/media/Harshalpatil.ca010fb4.jpg",
+    "static/media/Randhirpatil.90b65fad.png": "/static/media/Randhirpatil.90b65fad.png",
+    "static/media/Sachinkumbhar.35b7976c.jpeg": "/static/media/Sachinkumbhar.35b7976c.jpeg",
+    "static/media/Shubham.9832ec45.jpg": "/static/media/Shubham.9832ec45.jpg",
+    "static/media/anandkakade.bf5c78f8.png": "/static/media/anandkakade.bf5c78f8.png",
+    "static/media/About.css": "/static/media/background.dc80e8b2.jpg",
+    "static/media/insta.9a9e6f69.png": "/static/media/insta.9a9e6f69.png",
+    "static/media/origin1.634067b2.png": "/static/media/origin1.634067b2.png",
+    "static/media/Homebg.css": "/static/media/pic4.ff8294f3.jpg",
+    "static/media/shop2.a3a53ea4.jpg": "/static/media/shop2.a3a53ea4.jpg",
+    "static/media/teslaboard.3150da02.jpeg": "/static/media/teslaboard.3150da02.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f60321d.js",
+    "static/js/2.011ea9f8.chunk.js",
+    "static/css/main.696af830.chunk.css",
+    "static/js/main.dfc46681.chunk.js"
+  ]
+}
