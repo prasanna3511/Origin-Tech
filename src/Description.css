@@ -220,7 +220,6 @@ body {
 @media (max-width: 500px) {
     .container {
         flex-direction: column;
-        margin-top: 60px;
         margin-bottom: 210px;
     }
     .left-column,
@@ -238,6 +237,6 @@ body {
 @media (max-width: 500px) {
     .left-column img {
         width: 220px;
-        top: -85px;
+        top: 15px;
     }
 }
