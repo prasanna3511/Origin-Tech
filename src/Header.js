@@ -25,7 +25,7 @@ function Header() {
             <img className='header_logo' src={origin}/>
             </Link>
             <div className="ptag"></div>
-                <p className="p">Home</p>
+            <Link to='/'>  <p className="p">Home</p> </Link>
                 <p className="p">Shop</p>
               <Link to='/About'>  <p className="p" >Info</p>    </Link>
                 <p className="p">Courses</p>
