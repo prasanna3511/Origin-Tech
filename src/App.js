@@ -24,6 +24,7 @@ import Break from './Break';
 import Homebg from './Homebg';
 import Description from './Description';
 import About from './About';
+import { Middle } from './Middle';
 
 
 const promise = loadStripe("pk_live_51JvPo4SDCqaXJOSgPvHqyRj1QSLVPymM39D0JlxJAwhXyzW8TKCT1X5ZfkLtGhU1Q4cgqcu1tWjUibUXjOVXfCkU00hAYI0ePb");
@@ -114,6 +115,8 @@ function App() {
            <Homebg/>
            
             <Home />
+
+            <Middle/>
            
             <Footer/>
           </Route>
