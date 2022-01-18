@@ -11,7 +11,7 @@
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;
-    padding: 100px 0;
+    padding: 50px 0;
     margin-right: 0;
 }
 
@@ -51,34 +51,29 @@
     cursor: pointer;
 }
 
+.skills button {
+    animation-duration: 3s;
+    animation-name: my-animation;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+}
+
 .skills button:hover {
     transition: 1s;
     background-color: #ecf5f5;
     color: #000000;
 }
 
-@media screen and (max-width:1200px) {
-    .inner-section {
-        padding: 80px;
-    }
-}
-
-@media screen and (max-width:1000px) {
+@media screen and (max-width:500px) {
     .about {
         background-size: 100%;
         padding: 100px 40px;
     }
-    .inner-section {
-        width: 100%;
-    }
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:500px) {
     .about {
         padding: 0;
-    }
-    .inner-section {
-        padding: 60px;
     }
     .skills button {
         font-size: 19px;
