@@ -1,0 +1,50 @@
+.contactbg {
+    height: 90vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('contact.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+@media (max-width:500px) {
+    .contactbg {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('contact.jpg') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
+.contactbg {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.textcontact p {
+    display: flex;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+
+/* .textcontact {
+    align-items: center;
+} */
+
+.textcontact {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.textcontact,
+.enquiry {
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+}

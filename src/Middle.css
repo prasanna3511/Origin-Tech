@@ -1,5 +1,5 @@
 .aboutf {
-    min-height: 100vh;
+    min-height: 70vh;
     display: block;
     align-items: center;
     justify-content: center;
@@ -11,7 +11,7 @@
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;
-    padding: 50px 0;
+    padding: 50px 0 0 0;
     margin-right: 0;
 }
 
