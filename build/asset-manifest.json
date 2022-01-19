@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.801cfcc2.chunk.css",
-    "main.js": "/static/js/main.f3987465.chunk.js",
-    "main.js.map": "/static/js/main.f3987465.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4e1432fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4e1432fa.js.map",
-    "static/js/2.a8d70eb6.chunk.js": "/static/js/2.a8d70eb6.chunk.js",
-    "static/js/2.a8d70eb6.chunk.js.map": "/static/js/2.a8d70eb6.chunk.js.map",
-    "static/js/3.e056b6b3.chunk.js": "/static/js/3.e056b6b3.chunk.js",
-    "static/js/3.e056b6b3.chunk.js.map": "/static/js/3.e056b6b3.chunk.js.map",
+    "main.css": "/static/css/main.f0a5825d.chunk.css",
+    "main.js": "/static/js/main.d7193f9f.chunk.js",
+    "main.js.map": "/static/js/main.d7193f9f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a13a6b5a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a13a6b5a.js.map",
+    "static/js/2.b530df57.chunk.js": "/static/js/2.b530df57.chunk.js",
+    "static/js/2.b530df57.chunk.js.map": "/static/js/2.b530df57.chunk.js.map",
+    "static/js/3.75a3fd5d.chunk.js": "/static/js/3.75a3fd5d.chunk.js",
+    "static/js/3.75a3fd5d.chunk.js.map": "/static/js/3.75a3fd5d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.801cfcc2.chunk.css.map": "/static/css/main.801cfcc2.chunk.css.map",
-    "static/js/2.a8d70eb6.chunk.js.LICENSE.txt": "/static/js/2.a8d70eb6.chunk.js.LICENSE.txt",
+    "static/css/main.f0a5825d.chunk.css.map": "/static/css/main.f0a5825d.chunk.css.map",
+    "static/js/2.b530df57.chunk.js.LICENSE.txt": "/static/js/2.b530df57.chunk.js.LICENSE.txt",
     "static/media/Harshalpatil.ca010fb4.jpg": "/static/media/Harshalpatil.ca010fb4.jpg",
     "static/media/Randhirpatil.90b65fad.png": "/static/media/Randhirpatil.90b65fad.png",
     "static/media/Sachinkumbhar.35b7976c.jpeg": "/static/media/Sachinkumbhar.35b7976c.jpeg",
     "static/media/Shubham.9832ec45.jpg": "/static/media/Shubham.9832ec45.jpg",
     "static/media/anandkakade.bf5c78f8.png": "/static/media/anandkakade.bf5c78f8.png",
     "static/media/Middle.css": "/static/media/background.dc80e8b2.jpg",
+    "static/media/Contact.css": "/static/media/contact.a181c324.jpg",
     "static/media/insta.9a9e6f69.png": "/static/media/insta.9a9e6f69.png",
     "static/media/origin1.634067b2.png": "/static/media/origin1.634067b2.png",
     "static/media/Homebg.css": "/static/media/pic4.ff8294f3.jpg",
@@ -25,9 +26,9 @@
     "static/media/teslaboard.3150da02.jpeg": "/static/media/teslaboard.3150da02.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e1432fa.js",
-    "static/js/2.a8d70eb6.chunk.js",
-    "static/css/main.801cfcc2.chunk.css",
-    "static/js/main.f3987465.chunk.js"
+    "static/js/runtime-main.a13a6b5a.js",
+    "static/js/2.b530df57.chunk.js",
+    "static/css/main.f0a5825d.chunk.css",
+    "static/js/main.d7193f9f.chunk.js"
   ]
 }
