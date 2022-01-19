@@ -26,6 +26,7 @@ import Description from './Description';
 import About from './About';
 import { Middle } from './Middle';
 import { Contact } from './Contact';
+import Maincontent from './Maincontent';
 
 
 const promise = loadStripe("pk_live_51JvPo4SDCqaXJOSgPvHqyRj1QSLVPymM39D0JlxJAwhXyzW8TKCT1X5ZfkLtGhU1Q4cgqcu1tWjUibUXjOVXfCkU00hAYI0ePb");
@@ -99,6 +100,14 @@ function App() {
             <Footer/>
           </Route>
 
+          <Route path='/maincontent'>
+           
+            <Header/>
+            
+            <Maincontent/>
+            <Footer/>
+          </Route>
+
           <Route path='/payment'>
             
             <Header/>
@@ -108,6 +117,8 @@ function App() {
            </Elements>
            <Footer/>
           </Route>
+
+          
 
           <Route path='/'>
            
