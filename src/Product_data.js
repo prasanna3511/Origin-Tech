@@ -1,3 +1,5 @@
+import iotwater from "./iot-water.jpg";
+import React from "react";
 const Productsak = [{
         id: 1,
         product_name: "curd maker",
@@ -32,7 +34,7 @@ const Productsak = [{
         id: 6,
         product_name: "iotbased water level monitoring",
         description: "More efficient , easy to handle ",
-        thumb: "./src/iot-water.jpg"
+        thumb: "iot-water.jpg"
     }
 ]
 

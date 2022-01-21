@@ -1,13 +1,68 @@
 .Homebg {
-    height: 90vh;
+    /* height: 90vh; */
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    padding-top: 5%;
     background-size: cover;
 }
 
+.Homebg button:hover {
+    transition: 1s;
+    background-color: #ecf5f5;
+    color: #000000;
+}
+
+.Homebg button {
+    /* background-color: aqua; */
+    text-align: center;
+    animation: animate 3s;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0.7;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
 @media (max-width:500px) {
+    .Homebg {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
+@media (max-width:700px) {
+    .Homebg {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
+@media (max-width:900px) {
+    .Homebg {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
+@media (max-width:800px) {
     .Homebg {
         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
         -webkit-background-size: cover;

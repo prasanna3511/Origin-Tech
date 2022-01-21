@@ -1,41 +1,4 @@
-.card {
-    position: relative;
-    width: 70%;
-    height: 100%;
-    margin: 100px 40%;
-    padding: 50px 0 0;
-    box-sizing: border-box;
+.home_container {
     display: flex;
-    justify-content: center;
-    flex-direction: column;
-    flex-wrap: wrap;
+    justify-content: space-between;
 }
-
-.card_img {
-    margin-top: -5vw;
-}
-
-.card_img img {
-    width: 200px;
-}
-
-.card_header {
-    margin: 25px 0;
-}
-
-h3 {
-    position: absolute;
-    left: 40%;
-    top: 25;
-    color: darkolivegreen;
-    font-size: 1.5vw;
-}
-
-
-/* .card {
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(34, 59, 38);
-    align-items: center;
-    color: blanchedalmond;
-} */

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0a5825d.chunk.css",
-    "main.js": "/static/js/main.d7193f9f.chunk.js",
-    "main.js.map": "/static/js/main.d7193f9f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a13a6b5a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a13a6b5a.js.map",
-    "static/js/2.b530df57.chunk.js": "/static/js/2.b530df57.chunk.js",
-    "static/js/2.b530df57.chunk.js.map": "/static/js/2.b530df57.chunk.js.map",
-    "static/js/3.75a3fd5d.chunk.js": "/static/js/3.75a3fd5d.chunk.js",
-    "static/js/3.75a3fd5d.chunk.js.map": "/static/js/3.75a3fd5d.chunk.js.map",
+    "main.css": "/static/css/main.59253474.chunk.css",
+    "main.js": "/static/js/main.768bbdf1.chunk.js",
+    "main.js.map": "/static/js/main.768bbdf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f5c8d168.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f5c8d168.js.map",
+    "static/js/2.89a07b66.chunk.js": "/static/js/2.89a07b66.chunk.js",
+    "static/js/2.89a07b66.chunk.js.map": "/static/js/2.89a07b66.chunk.js.map",
+    "static/js/3.1ebf8625.chunk.js": "/static/js/3.1ebf8625.chunk.js",
+    "static/js/3.1ebf8625.chunk.js.map": "/static/js/3.1ebf8625.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f0a5825d.chunk.css.map": "/static/css/main.f0a5825d.chunk.css.map",
-    "static/js/2.b530df57.chunk.js.LICENSE.txt": "/static/js/2.b530df57.chunk.js.LICENSE.txt",
+    "static/css/main.59253474.chunk.css.map": "/static/css/main.59253474.chunk.css.map",
+    "static/js/2.89a07b66.chunk.js.LICENSE.txt": "/static/js/2.89a07b66.chunk.js.LICENSE.txt",
     "static/media/Harshalpatil.ca010fb4.jpg": "/static/media/Harshalpatil.ca010fb4.jpg",
     "static/media/Randhirpatil.90b65fad.png": "/static/media/Randhirpatil.90b65fad.png",
     "static/media/Sachinkumbhar.35b7976c.jpeg": "/static/media/Sachinkumbhar.35b7976c.jpeg",
@@ -20,15 +20,19 @@
     "static/media/Middle.css": "/static/media/background.dc80e8b2.jpg",
     "static/media/Contact.css": "/static/media/contact.a181c324.jpg",
     "static/media/insta.9a9e6f69.png": "/static/media/insta.9a9e6f69.png",
+    "static/media/iot-water.1a00edb7.jpg": "/static/media/iot-water.1a00edb7.jpg",
+    "static/media/occupancy.1ceb5a61.jpg": "/static/media/occupancy.1ceb5a61.jpg",
     "static/media/origin1.634067b2.png": "/static/media/origin1.634067b2.png",
     "static/media/Homebg.css": "/static/media/pic4.ff8294f3.jpg",
+    "static/media/sanitizer-1.32b73762.jpg": "/static/media/sanitizer-1.32b73762.jpg",
     "static/media/shop2.a3a53ea4.jpg": "/static/media/shop2.a3a53ea4.jpg",
-    "static/media/teslaboard.3150da02.jpeg": "/static/media/teslaboard.3150da02.jpeg"
+    "static/media/teslaboard.3150da02.jpeg": "/static/media/teslaboard.3150da02.jpeg",
+    "static/media/water.fce84bca.jpg": "/static/media/water.fce84bca.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a13a6b5a.js",
-    "static/js/2.b530df57.chunk.js",
-    "static/css/main.f0a5825d.chunk.css",
-    "static/js/main.d7193f9f.chunk.js"
+    "static/js/runtime-main.f5c8d168.js",
+    "static/js/2.89a07b66.chunk.js",
+    "static/css/main.59253474.chunk.css",
+    "static/js/main.768bbdf1.chunk.js"
   ]
 }
