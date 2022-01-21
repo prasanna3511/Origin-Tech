@@ -20,7 +20,7 @@
      cursor: pointer;
      padding-left: 0%;
      object-fit: contain;
-     margin-top: 5px;
+     margin-top: 7%;
  }
  
  .p {
@@ -37,8 +37,7 @@
  .hn {
      padding-left: 0%;
  }
- 
- .header_search {
+ /* .header_search {
      display: flex;
      flex: 1;
      align-items: center;
@@ -51,6 +50,7 @@
      height: 22px !important;
      background-color: #6abbcf;
  }
+  */
  
  .header_optionlineone {
      font-size: 10px;
@@ -175,7 +175,7 @@
          /* background-color: #252b5a; */
          justify-content: space-evenly;
          /* position: sticky; */
-         background-color: rgba(7, 56, 16, 0.5);
+         background-color: rgba(21, 109, 40, 0.5);
          /*url('pic4.jpg') center/cover no-repeat; */
          top: 25px;
          z-index: 100;
@@ -192,6 +192,78 @@
          padding-right: 10px;
          padding-left: 10px;
          font-size: 11px;
+     }
+     .header_optionlineone {
+         font-size: 12px;
+         text-decoration: none;
+     }
+     .header_optionlinetwo {
+         text-decoration: none;
+         font-size: 12px;
+         font-weight: 600;
+     }
+ }
+ 
+ @media (max-width:600px) {
+     .header {
+         display: flex;
+         align-items: center;
+         /* background-color: #252b5a; */
+         justify-content: space-evenly;
+         /* position: sticky; */
+         background-color: rgba(21, 109, 40, 0.5);
+         /*url('pic4.jpg') center/cover no-repeat; */
+         top: 25px;
+         z-index: 100;
+     }
+     .header_logo {
+         width: 1px;
+         cursor: pointer;
+         padding-left: 0%;
+         object-fit: contain;
+         margin-top: 5px;
+     }
+     .p {
+         color: white;
+         padding-right: 10px;
+         padding-left: 10px;
+         font-size: 12px;
+     }
+     .header_optionlineone {
+         font-size: 12px;
+         text-decoration: none;
+     }
+     .header_optionlinetwo {
+         text-decoration: none;
+         font-size: 12px;
+         font-weight: 600;
+     }
+ }
+ 
+ @media (max-width:700px) {
+     .header {
+         display: flex;
+         align-items: center;
+         /* background-color: #252b5a; */
+         justify-content: space-evenly;
+         /* position: sticky; */
+         background-color: rgba(21, 109, 40, 0.5);
+         /*url('pic4.jpg') center/cover no-repeat; */
+         top: 25px;
+         z-index: 100;
+     }
+     .header_logo {
+         width: 1px;
+         cursor: pointer;
+         padding-left: 0%;
+         object-fit: contain;
+         margin-top: 5px;
+     }
+     .p {
+         color: white;
+         padding-right: 10px;
+         padding-left: 10px;
+         font-size: 13px;
      }
      .header_optionlineone {
          font-size: 12px;

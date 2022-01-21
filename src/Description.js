@@ -4,7 +4,7 @@ import teslaboard from "./teslaboard.jpeg";
 
 function Description() {
     return (
- <div className="container">
+ <div className="dcontainer">
 
 {/* <!-- Left Column / Headphones Image --> */}
 <div className="left-column">

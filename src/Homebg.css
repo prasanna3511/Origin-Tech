@@ -64,10 +64,28 @@
 
 @media (max-width:800px) {
     .Homebg {
+        height: 90vh;
         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(161, 140, 140, 0.5)), url('pic4.jpg') no-repeat center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+        padding-top: 0%;
     }
+    .header-banner container {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.header-banner {
+    height: 88vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    opacity: 0.95;
+    text-align: center;
 }

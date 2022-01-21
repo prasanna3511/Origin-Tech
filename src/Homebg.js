@@ -8,7 +8,7 @@ function Homebg() {
             <div class="header-banner container">
                <div>
                    <h3>ORIGIN TECH</h3>
-                   <h1 class="header-banner-title">
+                   <h1 >
                       Tesla Board IOT
                    </h1>
                    <button type="button" class="btn-trans">Order Now</button>

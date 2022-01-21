@@ -6,7 +6,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container {
+.dcontainer {
     height: 80vh;
     max-width: 1200px;
     margin: 0 auto;
@@ -218,7 +218,7 @@ body {
 /* Responsive */
 
 @media (max-width: 600px) {
-    .container {
+    .dcontainer {
         flex-direction: column;
         margin-bottom: 210px;
         height: 150vh;
@@ -240,7 +240,7 @@ body {
 }
 
 @media (max-width: 800px) {
-    .container {
+    .dcontainer {
         flex-direction: column;
         margin-bottom: 210px;
         /* height: 150vh; */
@@ -262,7 +262,7 @@ body {
 }
 
 @media (max-width: 400px) {
-    .container {
+    .dcontainer {
         flex-direction: column;
         margin-bottom: 210px;
         /* height: 100vh; */
@@ -284,7 +284,7 @@ body {
 }
 
 @media (max-width: 500px) {
-    .container {
+    .dcontainer {
         flex-direction: column;
         margin-bottom: 210px;
     }
